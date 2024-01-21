@@ -1,0 +1,2 @@
+# Google Drive Takeout Organiser
+Gets the duplicate files (by hash) from czkawka and deletes the duplicates which are found in "Photos from 20xx". Keeps the items in albums to remove and duplicate items.
